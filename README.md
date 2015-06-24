@@ -1,2 +1,2 @@
 # DataScienceExamples
-Data Science Coursera
+Data Science Online  course
